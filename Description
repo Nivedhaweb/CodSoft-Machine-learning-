@@ -1,0 +1,8 @@
+Here, have created a Machine Learning model for Movie genre classification. 
+Needed input files are imported, google colab or jupyter notebook can be used to execute the model building and obtain the output.
+Import needed packages and libraries
+Understand the data and handle the missing values 
+Split  train and test data
+Train the model using train_data 
+Plot graphs to understand the dataset using Exploratory data analysis
+Use SVM as the machine learning model and obtain its accuracy 
