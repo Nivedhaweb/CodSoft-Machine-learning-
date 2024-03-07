@@ -1,0 +1,6 @@
+Credit card fraud detection using machine learning involves utilizing algorithms and statistical 
+  models to identify potentially fraudulent transactions in credit card data. By analyzing various 
+  features such as transaction amount, location, time, and user behavior patterns, machine learning 
+    models can learn to distinguish between legitimate and fraudulent transactions. These models are trained on 
+    historical data containing both fraudulent and non-fraudulent transactions, enabling them to detect anomalies and flag suspicious 
+      activities in real-time, thus helping financial institutions prevent fraudulent charges and protect their customers from unauthorized transactions.
